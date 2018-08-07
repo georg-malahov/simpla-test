@@ -1,0 +1,15 @@
+{
+  "type": null,
+  "data": {
+    "tag": "pre",
+    "attrs": {
+      "sid": "demo-pre/content"
+    },
+    "props": {
+      "textContent": "Это контент на русском!"
+    }
+  },
+  "path": "/_root/ru/demo-pre/content",
+  "createdAt": "2018-08-07T20:54:00.305Z",
+  "updatedAt": "2018-08-07T20:54:00.305Z"
+}
