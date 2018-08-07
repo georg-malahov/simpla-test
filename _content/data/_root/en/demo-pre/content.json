@@ -1,0 +1,15 @@
+{
+  "type": null,
+  "data": {
+    "tag": "pre",
+    "attrs": {
+      "sid": "demo-pre/content"
+    },
+    "props": {
+      "textContent": "This is a pre content!"
+    }
+  },
+  "path": "/_root/en/demo-pre/content",
+  "createdAt": "2018-08-07T20:48:04.325Z",
+  "updatedAt": "2018-08-07T20:48:04.325Z"
+}
