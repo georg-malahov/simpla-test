@@ -1,15 +1,15 @@
 {
   "type": null,
   "data": {
-    "tag": "p",
+    "tag": "pre",
     "attrs": {
-      "sid": "demo-paragraph/content"
+      "sid": "demo-pre/content"
     },
     "props": {
-      "textContent": "333331"
+      "textContent": "This is a pre content!"
     }
   },
   "path": "/_root/en/demo-paragraph/content",
   "createdAt": "2018-08-07T19:15:27.116Z",
-  "updatedAt": "2018-08-07T20:44:15.635Z"
+  "updatedAt": "2018-08-07T20:46:32.851Z"
 }
