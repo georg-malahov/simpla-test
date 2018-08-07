@@ -1,0 +1,16 @@
+{
+  "type": null,
+  "data": {
+    "tag": "p",
+    "attrs": {
+      "sid": "demo-p/content",
+      "style": "color: green"
+    },
+    "props": {
+      "textContent": "Must be changed!"
+    }
+  },
+  "path": "/_root/ru/demo-p/content",
+  "createdAt": "2018-08-07T21:30:31.379Z",
+  "updatedAt": "2018-08-07T21:30:31.379Z"
+}
