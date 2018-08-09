@@ -4,13 +4,13 @@
     "tag": "p",
     "attrs": {
       "sid": "demo-p/content",
-      "style": "color: red"
+      "style": "color: green"
     },
     "props": {
-      "textContent": "Must be changed!"
+      "textContent": "It is working!"
     }
   },
   "path": "/_root/ru/demo-p/content",
   "createdAt": "2018-08-07T21:30:31.379Z",
-  "updatedAt": "2018-08-08T23:49:48.986Z"
+  "updatedAt": "2018-08-09T07:56:39.874Z"
 }
