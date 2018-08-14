@@ -1,6 +1,7 @@
 {
   "type": null,
   "data": {
+    "meta": {},
     "pages": {
       "https://dl2.lo.kaspersky.com/demo/index.html": {
         "main": [
@@ -21,5 +22,5 @@
   },
   "path": "/_root/demo/content",
   "createdAt": "2018-08-14T07:26:36.316Z",
-  "updatedAt": "2018-08-14T07:28:33.143Z"
+  "updatedAt": "2018-08-14T07:32:32.546Z"
 }
