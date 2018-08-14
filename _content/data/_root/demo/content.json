@@ -6,29 +6,13 @@
       "https://dl2.lo.kaspersky.com/demo/index.html": {
         "main": [
           {
-            "tag": "header",
-            "content": [
-              {
-                "tag": "button",
-                "attrs": {
-                  "sid": "en-lang/content",
-                  "onclick": "(e) => console.log(e)"
-                },
-                "props": {
-                  "textContent": "English"
-                }
-              },
-              {
-                "tag": "button",
-                "attrs": {
-                  "sid": "ru-lang/content",
-                  "onclick": "(e) => console.log(e)"
-                },
-                "props": {
-                  "textContent": "Russian"
-                }
-              }
-            ]
+            "tag": "div",
+            "attrs": {
+              "sid": "content"
+            },
+            "props": {
+              "textContent": "Loading content..."
+            }
           }
         ]
       }
@@ -36,5 +20,5 @@
   },
   "path": "/_root/demo/content",
   "createdAt": "2018-08-14T07:26:36.316Z",
-  "updatedAt": "2018-08-14T07:37:58.448Z"
+  "updatedAt": "2018-08-14T07:41:48.348Z"
 }
