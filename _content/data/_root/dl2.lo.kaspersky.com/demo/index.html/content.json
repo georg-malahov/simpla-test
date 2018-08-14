@@ -5,17 +5,15 @@
       "attrs": {
         "sid": "en"
       },
-      "content": [
-        {
-          "tag": "h1",
-          "props": {
-            "textContent": "Requirements"
-          }
+      "content": {
+        "tag": "h4",
+        "props": {
+          "textContent": "Requirements"
         }
-      ]
+      }
     }
   },
   "path": "/_root/dl2.lo.kaspersky.com/demo/index.html/content",
   "createdAt": "2018-08-14T14:07:47.449Z",
-  "updatedAt": "2018-08-14T15:30:27.239Z"
+  "updatedAt": "2018-08-14T15:38:07.300Z"
 }
