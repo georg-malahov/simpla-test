@@ -11,7 +11,21 @@
               {
                 "tag": "button",
                 "attrs": {
+                  "sid": "en-lang/content",
                   "onclick": "(e) => console.log(e)"
+                },
+                "props": {
+                  "textContent": "English"
+                }
+              },
+              {
+                "tag": "button",
+                "attrs": {
+                  "sid": "ru-lang/content",
+                  "onclick": "(e) => console.log(e)"
+                },
+                "props": {
+                  "textContent": "Russian"
                 }
               }
             ]
@@ -22,5 +36,5 @@
   },
   "path": "/_root/demo/content",
   "createdAt": "2018-08-14T07:26:36.316Z",
-  "updatedAt": "2018-08-14T07:32:32.546Z"
+  "updatedAt": "2018-08-14T07:37:58.448Z"
 }
