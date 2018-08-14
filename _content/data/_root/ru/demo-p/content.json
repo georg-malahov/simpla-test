@@ -4,7 +4,7 @@
     "tag": "h1",
     "attrs": {
       "sid": "demo-p/content",
-      "style": "color: red; border: 1px solif;"
+      "style": "color: green; border: 1px solif;"
     },
     "props": {
       "textContent": "It is working!"
@@ -12,5 +12,5 @@
   },
   "path": "/_root/ru/demo-p/content",
   "createdAt": "2018-08-07T21:30:31.379Z",
-  "updatedAt": "2018-08-12T12:24:16.354Z"
+  "updatedAt": "2018-08-14T06:54:22.095Z"
 }
