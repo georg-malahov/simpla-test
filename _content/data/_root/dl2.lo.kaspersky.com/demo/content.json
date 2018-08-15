@@ -4,7 +4,7 @@
     "body": {
       "attrs": {
         "style": "padding: 20px",
-        "sid": "en"
+        "sid": "ru/content"
       },
       "content": [
         {
@@ -185,11 +185,6 @@
           ]
         }
       ]
-    },
-    "H2": {
-      "props": {
-        "textContent": "CMS (платформа в целом)"
-      }
     }
   },
   "path": "/_root/dl2.lo.kaspersky.com/demo/content",
