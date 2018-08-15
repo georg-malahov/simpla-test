@@ -13,60 +13,6 @@
           }
         },
         {
-          "tag": "demo-container",
-          "content": [
-            {
-              "tag": "dl2-block",
-              "attrs": {
-                "class": "additional"
-              },
-              "props": {
-                "_api": {
-                  "params": [
-                    {
-                      "codename": "kts2018",
-                      "typename": "Downloader",
-                      "businesspurpose": "Update",
-                      "site": "https://www.kaspersky.co.za"
-                    }
-                  ],
-                  "meta": {
-                    "postprocess": "groupedLatestDownloads"
-                  }
-                },
-                "_ui": {
-                  "logo": {
-                    "tag": "kl-icon",
-                    "attrs": {
-                      "name": "windows"
-                    }
-                  },
-                  "title": {
-                    "tag": "h2",
-                    "props": {
-                      "textContent": "Protection for PC"
-                    }
-                  },
-                  "description": false,
-                  "languages": {
-                    "tag": "select"
-                  },
-                  "button": {
-                    "tag": "a",
-                    "attrs": {
-                      "class": "btn",
-                      "href": ""
-                    },
-                    "props": {
-                      "textContent": "Download Now"
-                    }
-                  }
-                }
-              }
-            }
-          ]
-        },
-        {
           "tag": "ul",
           "content": [
             {
@@ -182,6 +128,60 @@
               }
             }
           ]
+        },
+        {
+          "tag": "demo-container",
+          "content": [
+            {
+              "tag": "dl2-block",
+              "attrs": {
+                "class": "additional"
+              },
+              "props": {
+                "_api": {
+                  "params": [
+                    {
+                      "codename": "kts2018",
+                      "typename": "Downloader",
+                      "businesspurpose": "Update",
+                      "site": "https://www.kaspersky.co.za"
+                    }
+                  ],
+                  "meta": {
+                    "postprocess": "groupedLatestDownloads"
+                  }
+                },
+                "_ui": {
+                  "logo": {
+                    "tag": "kl-icon",
+                    "attrs": {
+                      "name": "windows"
+                    }
+                  },
+                  "title": {
+                    "tag": "h2",
+                    "props": {
+                      "textContent": "Protection for PC"
+                    }
+                  },
+                  "description": false,
+                  "languages": {
+                    "tag": "select"
+                  },
+                  "button": {
+                    "tag": "a",
+                    "attrs": {
+                      "class": "btn",
+                      "href": ""
+                    },
+                    "props": {
+                      "textContent": "Download Now"
+                    }
+                  }
+                }
+              }
+            }
+          ]
         }
       ]
     },
@@ -189,9 +189,19 @@
       "props": {
         "textContent": "CMS (платформа в целом)"
       }
+    },
+    "HEAD": {
+      "content": [
+        {
+          "tag": "script",
+          "attrs": {
+            "src": "/dl2.js"
+          }
+        }
+      ]
     }
   },
   "path": "/_root/dl2.lo.kaspersky.com/demo/index.html/content",
   "createdAt": "2018-08-14T14:07:47.449Z",
-  "updatedAt": "2018-08-15T12:23:57.893Z"
+  "updatedAt": "2018-08-15T12:26:45.453Z"
 }
