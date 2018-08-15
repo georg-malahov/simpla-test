@@ -1,0 +1,192 @@
+{
+  "type": null,
+  "data": {
+    "body": {
+      "attrs": {
+        "sid": "en"
+      },
+      "content": [
+        {
+          "tag": "h2",
+          "props": {
+            "textContent": "CMS (платформа в целом)"
+          }
+        },
+        {
+          "tag": "ul",
+          "content": [
+            {
+              "tag": "li",
+              "props": {
+                "textContent": "Возможность выбирать шаблон для страницы из библиотеки шаблонов"
+              }
+            },
+            {
+              "tag": "li",
+              "props": {
+                "textContent": "Возможность визуально редактировать страницу, располагая на ней динамические компоненты из библиотеки компонент"
+              }
+            },
+            {
+              "tag": "li",
+              "props": {
+                "textContent": "Возможность управления внешними блоками из CMS (Maximizer, GA, Omniture, etc)"
+              }
+            },
+            {
+              "tag": "li",
+              "props": {
+                "textContent": "Возможность работы над одним и тем же контентом в нескольких бранчах"
+              }
+            },
+            {
+              "tag": "ul",
+              "content": [
+                {
+                  "tag": "li",
+                  "props": {
+                    "textContent": "Организация версионирования"
+                  }
+                },
+                {
+                  "tag": "li",
+                  "props": {
+                    "textContent": "Механизм мёрджа бранчей / разрешения конфликтов мёрджа"
+                  }
+                },
+                {
+                  "tag": "li",
+                  "props": {
+                    "textContent": "Как альтернативу бранчам, можно реализовать feature toggle"
+                  }
+                }
+              ]
+            },
+            {
+              "tag": "li",
+              "props": {
+                "textContent": "Возможность делать превью страниц в CMS из всех бранчей"
+              }
+            },
+            {
+              "tag": "li",
+              "props": {
+                "textContent": "Упрощенное заведение единообразного контента (Content Repository)"
+              }
+            },
+            {
+              "tag": "li",
+              "props": {
+                "textContent": "Применение ограничений прав доступа для пользователей/групп постранично"
+              }
+            },
+            {
+              "tag": "li",
+              "props": {
+                "textContent": "Поддержка наследования контента"
+              }
+            },
+            {
+              "tag": "li",
+              "props": {
+                "textContent": "Публикация страниц"
+              }
+            },
+            {
+              "tag": "li",
+              "props": {
+                "textContent": "Хранение конфигов"
+              }
+            },
+            {
+              "tag": "ul",
+              "content": [
+                {
+                  "tag": "li",
+                  "props": {
+                    "textContent": "Информация о роутинге (адреса страниц хранятся внутри компонент (сущностей) страниц)"
+                  }
+                },
+                {
+                  "tag": "li",
+                  "props": {
+                    "textContent": "Редирект-правила"
+                  }
+                },
+                {
+                  "tag": "li",
+                  "props": {
+                    "textContent": "Рерайт-правила"
+                  }
+                }
+              ]
+            },
+            {
+              "tag": "li",
+              "props": {
+                "textContent": "Landing Pages включаются в CMS"
+              }
+            }
+          ]
+        },
+        {
+          "tag": "demo-container",
+          "content": [
+            {
+              "tag": "dl2-block",
+              "attrs": {
+                "class": "additional"
+              },
+              "props": {
+                "_api": {
+                  "params": [
+                    {
+                      "codename": "kts2018",
+                      "typename": "Downloader",
+                      "businesspurpose": "Update",
+                      "site": "https://www.kaspersky.co.za"
+                    }
+                  ],
+                  "meta": {
+                    "postprocess": "groupedLatestDownloads"
+                  }
+                },
+                "_ui": {
+                  "logo": {
+                    "tag": "kl-icon",
+                    "attrs": {
+                      "name": "windows"
+                    }
+                  },
+                  "title": {
+                    "tag": "h2",
+                    "props": {
+                      "textContent": "Protection for PC"
+                    }
+                  },
+                  "description": false,
+                  "languages": {
+                    "tag": "select"
+                  },
+                  "button": {
+                    "tag": "a",
+                    "attrs": {
+                      "class": "btn",
+                      "href": ""
+                    },
+                    "props": {
+                      "textContent": "Download Now"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "path": "/_root/dl2.lo.kaspersky.com/demodex.html/content",
+  "createdAt": "2018-08-15T12:44:47.054Z",
+  "updatedAt": "2018-08-15T12:44:47.054Z"
+}
