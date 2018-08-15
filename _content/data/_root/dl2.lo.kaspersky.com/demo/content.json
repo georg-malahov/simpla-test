@@ -185,14 +185,6 @@
           ]
         }
       ]
-    },
-    "H2": {
-      "props": {
-        "style": {
-          "textDecoration": "line-through"
-        },
-        "textContent": "CMS (платформа в целом)"
-      }
     }
   },
   "path": "/_root/dl2.lo.kaspersky.com/demo/content",
