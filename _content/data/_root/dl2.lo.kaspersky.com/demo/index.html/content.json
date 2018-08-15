@@ -18,15 +18,20 @@
             {
               "tag": "li",
               "props": {
-                "textContent": "Must work"
+                "textContent": "Возможность выбирать шаблон для страницы из библиотеки шаблонов"
               }
             }
           ]
         }
       ]
+    },
+    "LI": {
+      "props": {
+        "textContent": "Must work"
+      }
     }
   },
   "path": "/_root/dl2.lo.kaspersky.com/demo/index.html/content",
   "createdAt": "2018-08-14T14:07:47.449Z",
-  "updatedAt": "2018-08-15T07:17:45.109Z"
+  "updatedAt": "2018-08-15T11:58:59.513Z"
 }
