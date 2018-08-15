@@ -142,7 +142,7 @@
                 "_api": {
                   "params": [
                     {
-                      "codename": "kis2018",
+                      "codename": "kts2018",
                       "typename": "Downloader",
                       "businesspurpose": "Update",
                       "site": "https://www.kaspersky.co.za"
@@ -162,7 +162,7 @@
                   "title": {
                     "tag": "h2",
                     "props": {
-                      "textContent": "Protection for Mac"
+                      "textContent": "Protection for PC. Total Security."
                     }
                   },
                   "description": false,
@@ -194,5 +194,5 @@
   },
   "path": "/_root/dl2.lo.kaspersky.com/demo/content",
   "createdAt": "2018-08-15T12:44:48.140Z",
-  "updatedAt": "2018-08-15T13:50:14.947Z"
+  "updatedAt": "2018-08-15T14:38:31.066Z"
 }
