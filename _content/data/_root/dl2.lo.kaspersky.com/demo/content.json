@@ -142,7 +142,7 @@
                 "_api": {
                   "params": [
                     {
-                      "codename": "kts2018",
+                      "codename": "kis2018",
                       "typename": "Downloader",
                       "businesspurpose": "Update",
                       "site": "https://www.kaspersky.co.za"
@@ -185,9 +185,14 @@
           ]
         }
       ]
+    },
+    "H2": {
+      "props": {
+        "textContent": "CMS (платформа в целом)"
+      }
     }
   },
   "path": "/_root/dl2.lo.kaspersky.com/demo/content",
   "createdAt": "2018-08-15T12:44:48.140Z",
-  "updatedAt": "2018-08-15T13:42:03.528Z"
+  "updatedAt": "2018-08-15T13:44:30.675Z"
 }
