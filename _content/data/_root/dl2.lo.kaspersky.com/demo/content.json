@@ -189,6 +189,9 @@
     "H2": {
       "attrs": "text-decoration: line-through",
       "props": {
+        "style": {
+          "textDocoration": "line-through"
+        },
         "textContent": "CMS (платформа в целом)"
       }
     }
