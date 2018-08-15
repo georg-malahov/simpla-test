@@ -106,8 +106,26 @@
                   "props": {
                     "textContent": "Информация о роутинге (адреса страниц хранятся внутри компонент (сущностей) страниц)"
                   }
+                },
+                {
+                  "tag": "li",
+                  "props": {
+                    "textContent": "Редирект-правила"
+                  }
+                },
+                {
+                  "tag": "li",
+                  "props": {
+                    "textContent": "Рерайт-правила"
+                  }
                 }
               ]
+            },
+            {
+              "tag": "li",
+              "props": {
+                "textContent": "Landing Pages включаются в CMS"
+              }
             }
           ]
         }
@@ -121,5 +139,5 @@
   },
   "path": "/_root/dl2.lo.kaspersky.com/demo/index.html/content",
   "createdAt": "2018-08-14T14:07:47.449Z",
-  "updatedAt": "2018-08-15T12:13:58.213Z"
+  "updatedAt": "2018-08-15T12:16:09.398Z"
 }
