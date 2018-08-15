@@ -1,16 +1,6 @@
 {
   "type": null,
   "data": {
-    "head": {
-      "content": [
-        {
-          "tag": "script",
-          "attrs": {
-            "src": "/dl2.js"
-          }
-        }
-      ]
-    },
     "body": {
       "attrs": {
         "sid": "en"
