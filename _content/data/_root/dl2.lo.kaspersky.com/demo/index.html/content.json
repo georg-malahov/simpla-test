@@ -11,11 +11,22 @@
           "props": {
             "textContent": "Requirements"
           }
+        },
+        {
+          "tag": "ul",
+          "content": [
+            {
+              "tag": "li",
+              "props": {
+                "textContent": "Must work"
+              }
+            }
+          ]
         }
       ]
     }
   },
   "path": "/_root/dl2.lo.kaspersky.com/demo/index.html/content",
   "createdAt": "2018-08-14T14:07:47.449Z",
-  "updatedAt": "2018-08-15T05:21:16.469Z"
+  "updatedAt": "2018-08-15T07:17:45.109Z"
 }
