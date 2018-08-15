@@ -1,6 +1,16 @@
 {
   "type": null,
   "data": {
+    "head": {
+      "content": [
+        {
+          "tag": "script",
+          "attrs": {
+            "src": "/dl2.js"
+          }
+        }
+      ]
+    },
     "body": {
       "attrs": {
         "sid": "en"
@@ -9,7 +19,7 @@
         {
           "tag": "h2",
           "props": {
-            "textContent": "Requirements"
+            "textContent": "CMS (платформа в целом)"
           }
         },
         {
@@ -182,21 +192,6 @@
               }
             }
           ]
-        }
-      ]
-    },
-    "H2": {
-      "props": {
-        "textContent": "CMS (платформа в целом)"
-      }
-    },
-    "HEAD": {
-      "content": [
-        {
-          "tag": "script",
-          "attrs": {
-            "src": "/dl2.js"
-          }
         }
       ]
     }
