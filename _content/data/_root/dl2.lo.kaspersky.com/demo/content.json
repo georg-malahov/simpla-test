@@ -3,6 +3,7 @@
   "data": {
     "body": {
       "attrs": {
+        "style": "padding: 20px",
         "sid": "en"
       },
       "content": [
