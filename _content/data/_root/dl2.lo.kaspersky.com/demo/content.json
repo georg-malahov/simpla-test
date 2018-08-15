@@ -185,14 +185,9 @@
           ]
         }
       ]
-    },
-    "BODY > UL > LI:nth-child(1)": {
-      "props": {
-        "textContent": "Done! Возможность выбирать шаблон для страницы из библиотеки шаблонов"
-      }
     }
   },
   "path": "/_root/dl2.lo.kaspersky.com/demo/content",
   "createdAt": "2018-08-15T12:44:48.140Z",
-  "updatedAt": "2018-08-15T13:36:39.565Z"
+  "updatedAt": "2018-08-15T13:42:03.528Z"
 }
