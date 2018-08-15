@@ -38,13 +38,41 @@
               "props": {
                 "textContent": "Возможность работы над одним и тем же контентом в нескольких бранчах"
               }
+            },
+            {
+              "tag": "ul",
+              "content": [
+                {
+                  "tag": "li",
+                  "props": {
+                    "textContent": "Организация версионирования"
+                  }
+                },
+                {
+                  "tag": "li",
+                  "props": {
+                    "textContent": "Механизм мёрджа бранчей / разрешения конфликтов мёрджа"
+                  }
+                },
+                {
+                  "tag": "li",
+                  "props": {
+                    "textContent": "Как альтернативу бранчам, можно реализовать feature toggle"
+                  }
+                }
+              ]
             }
           ]
         }
       ]
+    },
+    "H2": {
+      "props": {
+        "textContent": "Requirements"
+      }
     }
   },
   "path": "/_root/dl2.lo.kaspersky.com/demo/index.html/content",
   "createdAt": "2018-08-14T14:07:47.449Z",
-  "updatedAt": "2018-08-15T12:03:18.108Z"
+  "updatedAt": "2018-08-15T12:06:25.013Z"
 }
