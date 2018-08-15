@@ -162,7 +162,7 @@
                   "title": {
                     "tag": "h2",
                     "props": {
-                      "textContent": "Protection for PC"
+                      "textContent": "Protection for Mac"
                     }
                   },
                   "description": false,
@@ -185,9 +185,14 @@
           ]
         }
       ]
+    },
+    "H2": {
+      "props": {
+        "textContent": "CMS (платформа в целом)"
+      }
     }
   },
   "path": "/_root/dl2.lo.kaspersky.com/demo/content",
   "createdAt": "2018-08-15T12:44:48.140Z",
-  "updatedAt": "2018-08-15T13:44:30.675Z"
+  "updatedAt": "2018-08-15T13:50:14.947Z"
 }
