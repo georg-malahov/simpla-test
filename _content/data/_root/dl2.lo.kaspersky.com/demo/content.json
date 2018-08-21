@@ -142,7 +142,7 @@
                 "_api": {
                   "params": [
                     {
-                      "codename": "kts2018",
+                      "codename": "kis2018",
                       "typename": "Downloader",
                       "businesspurpose": "Update",
                       "site": "https://www.kaspersky.co.za"
@@ -162,7 +162,7 @@
                   "title": {
                     "tag": "h2",
                     "props": {
-                      "textContent": "Protection for PC. Total Security."
+                      "textContent": "Protection for PC. Total Security!"
                     }
                   },
                   "description": false,
@@ -176,7 +176,7 @@
                       "href": ""
                     },
                     "props": {
-                      "textContent": "Download Now"
+                      "textContent": "Download"
                     }
                   }
                 }
@@ -185,14 +185,9 @@
           ]
         }
       ]
-    },
-    "H2": {
-      "props": {
-        "textContent": "CMS (платформа в целом)"
-      }
     }
   },
   "path": "/_root/dl2.lo.kaspersky.com/demo/content",
   "createdAt": "2018-08-15T12:44:48.140Z",
-  "updatedAt": "2018-08-15T14:38:31.066Z"
+  "updatedAt": "2018-08-21T13:34:52.628Z"
 }
