@@ -10,7 +10,7 @@
         {
           "tag": "h2",
           "props": {
-            "textContent": "CMS (платформа в целом)123"
+            "textContent": "CMS (платформа в целом)"
           }
         },
         {
@@ -189,5 +189,5 @@
   },
   "path": "/_root/web-components-simpla.yurimalakhov.me/demo/index.html/content",
   "createdAt": "2018-08-22T13:14:43.559Z",
-  "updatedAt": "2018-08-22T13:15:49.355Z"
+  "updatedAt": "2018-08-22T13:16:13.409Z"
 }
