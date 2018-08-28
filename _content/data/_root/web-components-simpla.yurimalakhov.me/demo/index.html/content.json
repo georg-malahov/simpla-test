@@ -10,267 +10,8 @@
         {
           "tag": "h2",
           "props": {
-            "textContent": "CMS (платформа в целом) 827364283748"
+            "textContent": "CMS (платформа в целом)"
           }
-        },
-        {
-          "tag": "demo-container",
-          "content": [
-            {
-              "tag": "dl2-block",
-              "attrs": {
-                "class": "additional"
-              },
-              "props": {
-                "_api": {
-                  "params": [
-                    {
-                      "codename": "kis2018",
-                      "typename": "Downloader",
-                      "businesspurpose": "Update",
-                      "site": "https://www.kaspersky.co.za"
-                    }
-                  ],
-                  "meta": {
-                    "postprocess": "groupedLatestDownloads"
-                  }
-                },
-                "_ui": {
-                  "logo": {
-                    "tag": "kl-icon",
-                    "attrs": {
-                      "name": "windows"
-                    }
-                  },
-                  "title": {
-                    "tag": "h2",
-                    "props": {
-                      "textContent": "Protection for PC. Total Security!"
-                    }
-                  },
-                  "description": false,
-                  "languages": {
-                    "tag": "select"
-                  },
-                  "button": {
-                    "tag": "a",
-                    "attrs": {
-                      "class": "btn",
-                      "href": ""
-                    },
-                    "props": {
-                      "textContent": "Download"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "tag": "dl2-block",
-              "attrs": {
-                "class": "additional"
-              },
-              "props": {
-                "_api": {
-                  "params": [
-                    {
-                      "codename": "kis2018",
-                      "typename": "Downloader",
-                      "businesspurpose": "Update",
-                      "site": "https://www.kaspersky.co.za"
-                    }
-                  ],
-                  "meta": {
-                    "postprocess": "groupedLatestDownloads"
-                  }
-                },
-                "_ui": {
-                  "logo": {
-                    "tag": "kl-icon",
-                    "attrs": {
-                      "name": "windows"
-                    }
-                  },
-                  "title": {
-                    "tag": "h2",
-                    "props": {
-                      "textContent": "Protection for PC. Total Security!"
-                    }
-                  },
-                  "description": false,
-                  "languages": {
-                    "tag": "select"
-                  },
-                  "button": {
-                    "tag": "a",
-                    "attrs": {
-                      "class": "btn",
-                      "href": ""
-                    },
-                    "props": {
-                      "textContent": "Download"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "tag": "dl2-block",
-              "attrs": {
-                "class": "additional",
-                "style": "margin-top: 20px"
-              },
-              "props": {
-                "_api": {
-                  "params": [
-                    {
-                      "codename": "kis2018",
-                      "typename": "Downloader",
-                      "businesspurpose": "Update",
-                      "site": "https://www.kaspersky.co.za"
-                    }
-                  ],
-                  "meta": {
-                    "postprocess": "groupedLatestDownloads"
-                  }
-                },
-                "_ui": {
-                  "logo": {
-                    "tag": "kl-icon",
-                    "attrs": {
-                      "name": "windows"
-                    }
-                  },
-                  "title": {
-                    "tag": "h2",
-                    "props": {
-                      "textContent": "Protection for PC. Total Security!2"
-                    }
-                  },
-                  "description": false,
-                  "languages": {
-                    "tag": "select"
-                  },
-                  "button": {
-                    "tag": "a",
-                    "attrs": {
-                      "class": "btn",
-                      "href": ""
-                    },
-                    "props": {
-                      "textContent": "Download"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "tag": "dl2-block",
-              "attrs": {
-                "style": "margin-top: 20px"
-              },
-              "props": {
-                "_api": {
-                  "params": [
-                    {
-                      "codename": "kts2019",
-                      "typename": "Downloader",
-                      "businesspurpose": "Update",
-                      "site": "https://www.kaspersky.co.za"
-                    }
-                  ],
-                  "meta": {
-                    "postprocess": "groupedLatestDownloads"
-                  }
-                },
-                "_ui": {
-                  "logo": {
-                    "tag": "kl-icon",
-                    "attrs": {
-                      "name": "windows"
-                    }
-                  },
-                  "title": {
-                    "tag": "h2",
-                    "props": {
-                      "textContent": "Protection for PC"
-                    }
-                  },
-                  "description": {
-                    "tag": "div",
-                    "props": {
-                      "textContent": ""
-                    }
-                  },
-                  "languages": {
-                    "tag": "select"
-                  },
-                  "button": {
-                    "tag": "a",
-                    "attrs": {
-                      "class": "btn",
-                      "href": ""
-                    },
-                    "props": {
-                      "textContent": "Download"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "tag": "dl2-block",
-              "attrs": {},
-              "props": {
-                "_api": {
-                  "params": [
-                    {
-                      "codename": "kts2018",
-                      "typename": "Downloader",
-                      "businesspurpose": "Update",
-                      "site": "https://www.kaspersky.co.za"
-                    }
-                  ],
-                  "meta": {
-                    "postprocess": "groupedLatestDownloads"
-                  }
-                },
-                "_ui": {
-                  "logo": {
-                    "tag": "kl-icon",
-                    "attrs": {
-                      "name": "windows"
-                    }
-                  },
-                  "title": {
-                    "tag": "h2",
-                    "props": {
-                      "textContent": "Protection for PC"
-                    }
-                  },
-                  "description": {
-                    "tag": "div",
-                    "props": {
-                      "textContent": ""
-                    }
-                  },
-                  "languages": {
-                    "tag": "select"
-                  },
-                  "button": {
-                    "tag": "a",
-                    "attrs": {
-                      "class": "btn",
-                      "href": ""
-                    },
-                    "props": {
-                      "textContent": "Download Now"
-                    }
-                  }
-                }
-              }
-            }
-          ]
         },
         {
           "tag": "ul",
@@ -388,11 +129,115 @@
               }
             }
           ]
+        },
+        {
+          "tag": "demo-container",
+          "content": [
+            {
+              "tag": "dl2-block",
+              "attrs": {
+                "class": "additional"
+              },
+              "props": {
+                "_api": {
+                  "params": [
+                    {
+                      "codename": "kis2018",
+                      "typename": "Downloader",
+                      "businesspurpose": "Update",
+                      "site": "https://www.kaspersky.co.za"
+                    }
+                  ],
+                  "meta": {
+                    "postprocess": "groupedLatestDownloads"
+                  }
+                },
+                "_ui": {
+                  "logo": {
+                    "tag": "kl-icon",
+                    "attrs": {
+                      "name": "windows"
+                    }
+                  },
+                  "title": {
+                    "tag": "h2",
+                    "props": {
+                      "textContent": "Protection for PC. Total Security!"
+                    }
+                  },
+                  "description": false,
+                  "languages": {
+                    "tag": "select"
+                  },
+                  "button": {
+                    "tag": "a",
+                    "attrs": {
+                      "class": "btn",
+                      "href": ""
+                    },
+                    "props": {
+                      "textContent": "Download"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "tag": "dl2-block",
+              "attrs": {
+                "class": "additional",
+                "style": "margin-top: 20px"
+              },
+              "props": {
+                "_api": {
+                  "params": [
+                    {
+                      "codename": "kis2018",
+                      "typename": "Downloader",
+                      "businesspurpose": "Update",
+                      "site": "https://www.kaspersky.co.za"
+                    }
+                  ],
+                  "meta": {
+                    "postprocess": "groupedLatestDownloads"
+                  }
+                },
+                "_ui": {
+                  "logo": {
+                    "tag": "kl-icon",
+                    "attrs": {
+                      "name": "windows"
+                    }
+                  },
+                  "title": {
+                    "tag": "h2",
+                    "props": {
+                      "textContent": "Protection for PC. Total Security!2"
+                    }
+                  },
+                  "description": false,
+                  "languages": {
+                    "tag": "select"
+                  },
+                  "button": {
+                    "tag": "a",
+                    "attrs": {
+                      "class": "btn",
+                      "href": ""
+                    },
+                    "props": {
+                      "textContent": "Download"
+                    }
+                  }
+                }
+              }
+            }
+          ]
         }
       ]
     }
   },
   "path": "/_root/web-components-simpla.yurimalakhov.me/demo/index.html/content",
   "createdAt": "2018-08-22T13:14:43.559Z",
-  "updatedAt": "2018-08-28T11:35:41.248Z"
+  "updatedAt": "2018-08-28T15:16:34.200Z"
 }
