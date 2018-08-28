@@ -10,7 +10,7 @@
         {
           "tag": "h2",
           "props": {
-            "textContent": "CMS (платформа в целом)"
+            "textContent": "CMS (платформа в целом) 827364283748"
           }
         },
         {
@@ -234,12 +234,14 @@
             },
             {
               "tag": "dl2-block",
-              "attrs": {},
+              "attrs": {
+                "style": "margin-top: 20px"
+              },
               "props": {
                 "_api": {
                   "params": [
                     {
-                      "codename": "kis2018",
+                      "codename": "kts2019",
                       "typename": "Downloader",
                       "businesspurpose": "Update",
                       "site": "https://www.kaspersky.co.za"
@@ -291,5 +293,5 @@
   },
   "path": "/_root/web-components-simpla.yurimalakhov.me/demo/index.html/content",
   "createdAt": "2018-08-22T13:14:43.559Z",
-  "updatedAt": "2018-08-22T15:48:18.657Z"
+  "updatedAt": "2018-08-28T11:13:05.395Z"
 }
