@@ -10,7 +10,7 @@
         {
           "tag": "h2",
           "props": {
-            "textContent": "CMS (платформа в целом)123"
+            "textContent": "CMS (платформа в целом)"
           }
         },
         {
@@ -189,5 +189,5 @@
   },
   "path": "/_root/dl2.lo.kaspersky.com/demo/index.html/content",
   "createdAt": "2018-08-15T12:44:48.140Z",
-  "updatedAt": "2018-08-22T11:49:59.625Z"
+  "updatedAt": "2018-08-28T17:19:43.327Z"
 }
