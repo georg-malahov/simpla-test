@@ -153,18 +153,6 @@
                   }
                 },
                 "_ui": {
-                  "logo": {
-                    "tag": "kl-icon",
-                    "attrs": {
-                      "name": "windows"
-                    }
-                  },
-                  "title": {
-                    "tag": "h2",
-                    "props": {
-                      "textContent": "Protection for PC. Total Security!"
-                    }
-                  },
                   "description": false,
                   "languages": {
                     "tag": "select"
@@ -179,6 +167,14 @@
                       "textContent": "Download"
                     }
                   }
+                },
+                "title": {
+                  "tag": "kl-device-header",
+                  "props": {
+                    "icon": "osx",
+                    "surtitle": "Kaspersky Lab",
+                    "title": "Totla Security"
+                  }
                 }
               }
             }
@@ -189,5 +185,5 @@
   },
   "path": "/_root/dl2.lo.kaspersky.com/demo/index.html/content",
   "createdAt": "2018-08-15T12:44:48.140Z",
-  "updatedAt": "2018-08-29T13:07:45.819Z"
+  "updatedAt": "2018-08-29T15:01:47.767Z"
 }
